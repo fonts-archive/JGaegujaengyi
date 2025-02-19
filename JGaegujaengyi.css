@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'JGaegujaengyi';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Light.otf') format('opentype');
+}
+@font-face {
+  font-family: 'JGaegujaengyi';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Medium.otf') format('opentype');
+}
+@font-face {
+  font-family: 'JGaegujaengyi';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/JGaegujaengyi/JGaegujaengyi-Bold.otf') format('opentype');
+}
